@@ -15,11 +15,11 @@
 ### 🚀 立即体验
 | 体验方式 | 地址/账号 | 说明 |
 | :--- | :--- | :--- |
-| **🌐 在线演示站** | [https://aicrm.5kcrm.cn](https://aicrm.5kcrm.cn) | **一键访问，推荐首选** |
-| **🔑 演示站账号** | 用户：`admin` <br> 密码：`123456a` | 用于登录在线演示站 |
+| **🌐 在线演示站** | [https://www.72crm.com/aicrm](https://www.72crm.com/aicrm) | 注册云平台账号后体验 |
+| **🔑 体验账号** | 请在云平台注册新用户 | 用于测试在线演示站 |
 | **💬 帮助与讨论** | [前往社区论坛](https://bbs.72crm.com#/forum/detail/2020712408698912768) | 反馈问题、交流想法 |
 
-> **提示**：在线演示站已预置示例数据和客户信息，您可以直接登录并体验所有核心功能。
+> **提示**：请注册云平台账号后体验产品能力，生产环境请及时修改初始化管理员密码。
 
 ### ✨ 它能做什么？
 | 功能模块 | 核心价值 |
@@ -183,10 +183,9 @@ weknora:
 http://localhost:8088/doc.html
 ```
 
-## 默认账号
+## 体验账号
 
-- 用户名：`admin`
-- 密码：`123456a`
+请在云平台注册新用户进行体验。生产环境上线后请立即修改初始化管理员密码，并关闭不需要的演示数据。
 
 ## 模型配置
 
@@ -223,8 +222,8 @@ We strongly recommend you first experience the power of AI CRM through the follo
 
 | Experience | Address/Account | Notes |
 | :--- | :--- | :--- |
-| **🌐 Live Demo** | [https://aicrm.5kcrm.cn](https://aicrm.5kcrm.cn) | **One-click access, recommended** |
-| **🔑 Demo Account** | User: `admin` <br> Password: `123456a` | For logging into the live demo site |
+| **🌐 Live Demo** | [https://www.72crm.com/aicrm](https://www.72crm.com/aicrm) | Register a cloud account to try it |
+| **🔑 Trial Account** | Please register a new user on the cloud platform | For testing the online demo |
 | **💬 Help & Discussion** | [Community Forum](https://bbs.72crm.com#/forum/detail/2020712408698912768) | Report issues and share ideas |
 
 > **Tip**: The live demo comes pre-loaded with sample data and customer information. You can log in directly and experience all core features.
@@ -396,8 +395,7 @@ http://localhost:8088/doc.html
 
 ## Default Account
 
-· Username: admin
-· Password: 123456a
+Please register a new user on the cloud platform for testing. Change the initialized administrator password immediately before production use and disable demo data if it is not needed.
 
 ## Model Configuration
 
